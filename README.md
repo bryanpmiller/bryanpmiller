@@ -1,7 +1,6 @@
 # <a href="https://www.linkedin.com/in/bryan-p-miller/">Bryan Miller</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I’m passionate about cybersecurity and hands-on IT engineering, and I spend a lot of time building lab environments to test and harden systems. Most of my work focuses on vulnerability management, threat detection, Azure cloud security, and PowerShell automation. I prefer learning by doing, which means breaking things, fixing them, and understanding why they failed in the first place. The projects here reflect how I approach security: practical, tested, and always improving.
-
+I’m passionate about cybersecurity and enjoy solving complex problems through hands-on work. From vulnerability management to threat detection and threat hunting, I like digging into how systems behave and how they can be secured. These projects reflect my ongoing effort to strengthen security operations and improve defensive processes. Feel free to explore them and see the work behind the build.
 
 ## ⚠️ Vulnerability Management Projects
 
