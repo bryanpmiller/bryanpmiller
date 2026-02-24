@@ -18,7 +18,7 @@ I’m passionate about cybersecurity and enjoy solving complex problems through 
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://github.com/user-attachments/assets/87d405c0-364a-4321-93df-13a8f355ad71" />][linkedin]
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://github.com/user-attachments/assets/81542fd9-a586-4c87-89e6-3fede07c7176" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/bryan-p-miller
