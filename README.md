@@ -5,12 +5,14 @@ I’m passionate about cybersecurity and enjoy solving complex problems through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/bryanpmiller/vulnerability-management-program)**
+
+<!--
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/bryanpmiller/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/bryanpmiller/threat-hunting-scenario-tor)**
-
+-->
 <hr/>
 
 
