@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/bryan-p-miller/">Bryan Miller</a>'s IT and Cybersecurity Project Portfolio 🔐
+# [Bryan Miller](https://www.linkedin.com/in/bryan-p-miller/)'s IT and Cybersecurity Project Portfolio 🔐
 
 I’m passionate about cybersecurity and enjoy solving complex problems through hands-on work. From vulnerability management to threat detection and threat hunting, I like digging into how systems behave and how they can be secured. These projects reflect my ongoing effort to strengthen security operations and improve defensive processes. Feel free to explore them and see the work behind the build.
 
@@ -15,14 +15,11 @@ I’m passionate about cybersecurity and enjoy solving complex problems through 
 -->
 <hr/>
 
-
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://github.com/user-attachments/assets/81542fd9-a586-4c87-89e6-3fede07c7176" />][linkedin]
 
-
 [linkedin]: https://linkedin.com/in/bryan-p-miller
-
 
 <!--
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
