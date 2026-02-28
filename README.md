@@ -6,6 +6,10 @@ I’m passionate about cybersecurity and enjoy solving complex problems through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/bryanpmiller/vulnerability-management-program)**
 
+## 🛠️ Scripts and Automation Projects
+
+- **[Programmatic Security and System Scripts (PowerShell/Bash)](https://github.com/bryanpmiller/scripts)**
+
 <!--
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/bryanpmiller/programmatic-vulnerability-remediations)**
 
