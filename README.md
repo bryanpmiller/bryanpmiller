@@ -10,7 +10,7 @@ I’m passionate about cybersecurity and enjoy solving complex problems through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Wannacry Investigation Report (KQL - MDE/Sentinel)](https://github.com/bryanpmiller/wannacry_investigation_report)**
+- **[Wannacry Investigation Report (KQL - MDE/Sentinel)](https://github.com/bryanpmiller/wannacry_threathunt_report)**
 
 <!--
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/bryanpmiller/threat-hunting-scenario-tor)**
