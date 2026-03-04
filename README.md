@@ -12,9 +12,11 @@ I’m passionate about cybersecurity and enjoy solving complex problems through 
 
 - **[Security and System Scripts](https://github.com/bryanpmiller/scripts)**
 
-<!--
 ## 🚨 Threat Hunting and Security Operations
 
+- **[Live Threat Hunt 3.3.2026 CyberRange Azure](https://github.com/bryanpmiller/ransomware-smb-investigation)**
+
+<!--
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/bryanpmiller/threat-hunting-scenario-tor)**
 -->
 <hr/>
