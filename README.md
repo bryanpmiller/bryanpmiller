@@ -8,6 +8,11 @@ I’m passionate about cybersecurity and enjoy solving complex problems through 
 
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/bryanpmiller/programmatic-vulnerability-remediations)**
 
+## 💻 DISA STIG Compliance Remediations
+
+- **[Programmatic DISA STIG Remediations](https://github.com/bryanpmiller/DISA-STIG-Remediation)**
+
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Wannacry Investigation Report (KQL - MDE/Sentinel)](https://github.com/bryanpmiller/wannacry_threathunt_report)**
