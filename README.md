@@ -10,7 +10,7 @@ I’m passionate about cybersecurity and enjoy solving complex problems through 
 
 ## 💻 DISA STIG Compliance Remediations
 
-- **[Programmatic DISA STIG Remediations](https://github.com/bryanpmiller/DISA-STIG-Remediation)**
+- **[Programmatic DISA STIG Remediations(Powershell)](https://github.com/bryanpmiller/DISA-STIG-Remediation)**
 
 
 ## 🚨 Threat Hunting and Security Operations
