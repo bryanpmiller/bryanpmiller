@@ -12,10 +12,11 @@ I’m passionate about cybersecurity and enjoy solving complex problems through 
 
 - **[Programmatic DISA STIG Remediations (Powershell)](https://github.com/bryanpmiller/DISA-STIG-Remediation)**
 
-
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Wannacry Investigation Report (KQL - MDE/Sentinel)](https://github.com/bryanpmiller/wannacry_threathunt_report)**
+- **[Wannacry Investigation Report (KQL-MDE-Sentinel)](https://github.com/bryanpmiller/wannacry_threathunt_report)**
+
+- **[Akira Ransomware CyberRange Live Hunt (KQL-MDE-Sentinel)](https://github.com/bryanpmiller/the-buyer-threathunt)**
 
 <!--
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/bryanpmiller/threat-hunting-scenario-tor)**
