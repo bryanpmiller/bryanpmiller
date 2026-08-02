@@ -22,17 +22,12 @@ I’m passionate about cybersecurity and enjoy solving complex problems through 
 
 - **[Password Spray Threat Hunt Investigation Report (KQL-MDE-Sentinel)](https://github.com/bryanpmiller/password-spray-threat-hunt/tree/main)**
 
-<!--
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/bryanpmiller/threat-hunting-scenario-tor)**
--->
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/bryanpmiller/tor-threat-hunt)**
 
 ## 🛠️ Scripts and Automation Projects
 
 - **[Security and System Scripts](https://github.com/bryanpmiller/scripts)**
 
-<!--
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/bryanpmiller/threat-hunting-scenario-tor)**
--->
 
 <hr/>
 
