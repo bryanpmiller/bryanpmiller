@@ -20,7 +20,7 @@ I’m passionate about cybersecurity and enjoy solving complex problems through 
 
 - **[Akira Ransomware CyberRange Live Hunt Investigation Report (KQL-MDE-Sentinel)](https://github.com/bryanpmiller/the-buyer-threathunt)**
 
-- **[Password Spray Threat Hunt Investigation Report (KQL-MDE-Sentinel)](https://github.com/bryanpmiller/password-spray-threat-hunt/tree/main)**
+- **[Password Spray Threat Hunt Investigation Report (KQL-MDE-Sentinel)](https://github.com/bryanpmiller/password-spray-threat-hunt)**
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/bryanpmiller/tor-threat-hunt)**
 
